@@ -55,7 +55,7 @@
 
 - Graphics - **Disable Targeting DOF:** Disables the Depth-of-Field blurring effect when targeting enemies or NPCs.
 </br>DOF (Depth-of-Field) is an effect that blurs the background when an object is focused by the camera. Install if you don't like the effect.
-
+  
 - Graphics - **Shadows:** Changes the resolution of shadows.
 </br>256 and 512 could possibly increase your game performance if you are GPU bounded, but sacrifices shadow quality.
 </br>Original game has shadow quality at 960 or below.
